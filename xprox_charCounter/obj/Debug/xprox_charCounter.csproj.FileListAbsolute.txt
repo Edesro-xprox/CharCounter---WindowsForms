@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\bin\Debug\xprox_charCounter.exe.config
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\bin\Debug\xprox_charCounter.exe
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\bin\Debug\xprox_charCounter.pdb
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.Form1.resources
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.exe
+C:\Users\Lenovo\Desktop\proyectosEDS\xprox_charCounter\xprox_charCounter\obj\Debug\xprox_charCounter.pdb
